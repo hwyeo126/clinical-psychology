@@ -1,1 +1,1 @@
-# clinical-psychology
+# clinical-psychology-SMD
